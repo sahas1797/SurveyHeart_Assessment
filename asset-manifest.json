@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SurveyHeart_Assessment/static/css/main.fd8fe3b4.css",
+    "main.js": "/SurveyHeart_Assessment/static/js/main.47bb8a5a.js",
+    "static/js/453.46d91c86.chunk.js": "/SurveyHeart_Assessment/static/js/453.46d91c86.chunk.js",
+    "index.html": "/SurveyHeart_Assessment/index.html",
+    "main.fd8fe3b4.css.map": "/SurveyHeart_Assessment/static/css/main.fd8fe3b4.css.map",
+    "main.47bb8a5a.js.map": "/SurveyHeart_Assessment/static/js/main.47bb8a5a.js.map",
+    "453.46d91c86.chunk.js.map": "/SurveyHeart_Assessment/static/js/453.46d91c86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd8fe3b4.css",
+    "static/js/main.47bb8a5a.js"
+  ]
+}
