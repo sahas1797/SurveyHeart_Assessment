@@ -2,7 +2,7 @@
   "name": "contact-list-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sahas1797.github.io/repository/",
+  "homepage": "https://sahas1797.github.io/SurveyHeart_Assessment/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
